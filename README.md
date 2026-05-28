@@ -104,7 +104,7 @@ uvicorn main:app --reload
 Backend runs on:
 
 ```text
-http://127.0.0.1:8000
+https://expense-tracker-be-1n3i.onrender.com
 ```
 
 ---
