@@ -193,7 +193,7 @@ origins=[
 
     "http://localhost:8501",
 
-    "https://your-streamlit-app.streamlit.app"
+    "https://expense-tracker-task.streamlit.app"
 
 ]
 
